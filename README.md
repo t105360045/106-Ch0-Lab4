@@ -1,2 +1,1 @@
-# 106-Ch0-Lab4
-This is a project for fork practice
+This is an Android practice
